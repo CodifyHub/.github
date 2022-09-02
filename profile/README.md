@@ -1,12 +1,5 @@
-## Hi there 👋
+![codify](https://user-images.githubusercontent.com/28990981/188200099-08f28f37-f0b1-4ebd-b531-b20431a7a65f.png)
 
-<!--
+# Welcome to Codifyhub!
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Codifyhub is an open source organisation that provides open source software and development services to clients around the world. We are a team of software developers, designers, and project managers who are passionate about building software that solves real-world problems.
